@@ -1,9 +1,3 @@
-# Library Management System
-### **"In development phase"**
-
-
-A project, hmm...
-
 A `Python` project as the name suggests a **Library Management System.** For those who are unaware of this human word, its a system used for basic day-to-day management of library process.
 
 Frames are linked in the following order: <br>
